@@ -1,6 +1,6 @@
 # Samet Gündüz
 
-**Software Engineer & Data Scientist**
+**Software Engineer**
 
 - 🔭 I’m currently working on ADAS systems
 - 🌱 I’m currently learning advanced machine learning techniques
